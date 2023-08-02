@@ -29,8 +29,5 @@ while i < 5:
         j = j + 1
     i = i + 1
 
-#print(rows)
-#print(coords)
-
 steps = abs(coords[0] - 2) + abs(coords[1] - 2)
 print(steps)
