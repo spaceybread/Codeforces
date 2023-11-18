@@ -5,4 +5,4 @@ Adding solutions to Codeforces Problems as I solve them; I've only just started 
 
 Scripts are mostly written in Python 3 since that's what I'm most familiar with but some are done with C++ because it's MUCH faster; file names correspond to the question number on Codeforces
 
-I'm still fairly new (and as a result, bad) to competitive programming so most of the problems that I am to solve are fairly trivial but as Jake the Dog points out, "Sucking at something is the first step towards being sorta good at something."
+I'm still fairly new (and as a result, bad) to competitive programming so most of the problems that I am able to solve are fairly trivial but as Jake the Dog points out, "Sucking at something is the first step towards being sorta good at something."
